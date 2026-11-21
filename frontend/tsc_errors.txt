@@ -1,0 +1,38 @@
+﻿src/components/ui/dropdown-menu.tsx(24,2): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(78,6): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/pages/DashboardPage.tsx(99,8): error TS17008: JSX element 'Card' has no corresponding closing tag.
+src/pages/DashboardPage.tsx(110,10): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/pages/DashboardPage.tsx(111,34): error TS17014: JSX fragment has no corresponding closing tag.
+src/pages/DashboardPage.tsx(132,19): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(153,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(174,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(195,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(216,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(237,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(238,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(259,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(280,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(281,34): error TS17014: JSX fragment has no corresponding closing tag.
+src/pages/DashboardPage.tsx(302,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(323,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(324,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(345,18): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(366,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(385,14): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(386,12): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(387,11): error TS17002: Expected corresponding JSX closing tag for 'Card'.
+src/pages/DashboardPage.tsx(388,7): error TS1005: ')' expected.
+src/pages/DashboardPage.tsx(388,9): error TS17015: Expected corresponding closing tag for JSX fragment.
+src/pages/DashboardPage.tsx(388,13): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/pages/DashboardPage.tsx(391,10): error TS17008: JSX element 'Card' has no corresponding closing tag.
+src/pages/DashboardPage.tsx(408,17): error TS2657: JSX expressions must have one parent element.
+src/pages/DashboardPage.tsx(429,23): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(430,16): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(483,13): error TS17015: Expected corresponding closing tag for JSX fragment.
+src/pages/DashboardPage.tsx(483,16): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/pages/DashboardPage.tsx(484,11): error TS17015: Expected corresponding closing tag for JSX fragment.
+src/pages/DashboardPage.tsx(484,15): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/pages/DashboardPage.tsx(485,15): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(570,17): error TS2657: JSX expressions must have one parent element.
+src/pages/DashboardPage.tsx(635,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/DashboardPage.tsx(635,2): error TS1005: '</' expected.
